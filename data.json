@@ -1,0 +1,452 @@
+{
+    "table_7": [
+        {
+            "DESCRIPTION": "13.53 23-MAR-2025",
+            "PRICE": "93.87",
+            "CHANGE": "25.18",
+            "DATE": "0.04",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^12.50 22-JAN-2026",
+            "PRICE": "90.84",
+            "CHANGE": "20.20",
+            "DATE": "0.01",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^21.00 20-MAR-2026",
+            "PRICE": "101.77",
+            "CHANGE": "19.59",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^16.2884 17-MAR-2027",
+            "PRICE": "92.71",
+            "CHANGE": "20.02",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^19.94 20-MAR-2027",
+            "PRICE": "99.06",
+            "CHANGE": "20.39",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^13.98 23-FEB-2028",
+            "PRICE": "84.48",
+            "CHANGE": "20.38",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^21.00 20-MAR-2028",
+            "PRICE": "101.50",
+            "CHANGE": "20.36",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^14.55 26-APR-2029",
+            "PRICE": "85.16",
+            "CHANGE": "19.50",
+            "DATE": "-0.01",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^18.50 21-FEB-2031",
+            "PRICE": "91.67",
+            "CHANGE": "20.90",
+            "DATE": "0.05",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^12.50 27-APR-2032",
+            "PRICE": "75.79",
+            "CHANGE": "18.51",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^19.00 21-FEB-2034",
+            "PRICE": "89.66",
+            "CHANGE": "21.60",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^12.1493 18-JUL-2034",
+            "PRICE": "70.70",
+            "CHANGE": "18.75",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^12.50 27-MAR-2035",
+            "PRICE": "71.65",
+            "CHANGE": "18.74",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^12.40 18-MAR-2036",
+            "PRICE": "70.87",
+            "CHANGE": "18.60",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^16.2499 18-APR-2037",
+            "PRICE": "88.38",
+            "CHANGE": "18.65",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^15.45 21-JUN-2038",
+            "PRICE": "82.96",
+            "CHANGE": "18.95",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^13.00 21-JAN-2042",
+            "PRICE": "75.62",
+            "CHANGE": "17.50",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^14.80 26-APR-2049",
+            "PRICE": "82.39",
+            "CHANGE": "18.00",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^12.98 27-MAR-2050",
+            "PRICE": "69.97",
+            "CHANGE": "18.62",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "^15.70 21-JUN-2053",
+            "PRICE": "87.12",
+            "CHANGE": "18.03",
+            "DATE": "0.03",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "12.50 DANGCEM I 30-APR-2025",
+            "PRICE": "90.92",
+            "CHANGE": "27.55",
+            "DATE": "0.02",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "15.75 UNION II 3-SEP-2025",
+            "PRICE": "92.34",
+            "CHANGE": "24.51",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "16.50 WEMA FUNDING SPV II 12-OCT-2025",
+            "PRICE": "90.87",
+            "CHANGE": "26.13",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "15.50 ACCESS BANK 23-JUL-2026",
+            "PRICE": "90.94",
+            "CHANGE": "25.08",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "16.00 VIATHAN (GTD) 14-DEC-2027",
+            "PRICE": "92.79",
+            "CHANGE": "20.78",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "14.50 MTNN IB 30-SEP-2032",
+            "PRICE": "77.52",
+            "CHANGE": "20.24",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "13.30 ARDOVA PLC IA 12-NOV-2028",
+            "PRICE": "87.02",
+            "CHANGE": "21.38",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "16.20 UNION III 27-JUN-2029",
+            "PRICE": "80.48",
+            "CHANGE": "23.06",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "14.90 NMRC I 29-JUL-2030",
+            "PRICE": "85.40",
+            "CHANGE": "21.38",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "13.80 NMRC II 15-MAR-2033",
+            "PRICE": "79.04",
+            "CHANGE": "20.97",
+            "DATE": "0.01",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "15.60 NSP-SPV GB (GTD) 27-FEB-2034",
+            "PRICE": "71.73",
+            "CHANGE": "23.04",
+            "DATE": "0.02",
+            "OPEN_PRICE": "August 20, 2024"
+        },
+        {
+            "DESCRIPTION": "17.25 LAGOS IIB 11-AUG-2027",
+            "PRICE": "94.84",
+            "CHANGE": "20.81",
+            "DATE": "0.00",
+            "OPEN_PRICE": "August 20, 2024"
+        }
+    ],
+    "table_8": [
+        {
+            "MATURITY": "NTB 5-Sep-24",
+            "DISCOUNT": "17.73",
+            "YIELD": "17.87",
+            "CHANGE": "-0.01",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 10-Oct-24",
+            "DISCOUNT": "18.59",
+            "YIELD": "19.08",
+            "CHANGE": "-0.01",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 7-Nov-24",
+            "DISCOUNT": "19.27",
+            "YIELD": "20.11",
+            "CHANGE": "-0.01",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 5-Dec-24",
+            "DISCOUNT": "19.96",
+            "YIELD": "21.20",
+            "CHANGE": "-0.01",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 9-Jan-25",
+            "DISCOUNT": "20.81",
+            "YIELD": "22.65",
+            "CHANGE": "-0.01",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 6-Feb-25",
+            "DISCOUNT": "21.80",
+            "YIELD": "24.26",
+            "CHANGE": "0.35",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 6-Mar-25",
+            "DISCOUNT": "21.78",
+            "YIELD": "24.69",
+            "CHANGE": "-2.00",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 10-Apr-25",
+            "DISCOUNT": "21.70",
+            "YIELD": "25.19",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 8-May-25",
+            "DISCOUNT": "21.88",
+            "YIELD": "25.94",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 5-Jun-25",
+            "DISCOUNT": "21.32",
+            "YIELD": "25.65",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NTB 10-Jul-25",
+            "DISCOUNT": "20.63",
+            "YIELD": "25.25",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "OMO 29-Oct-24",
+            "DISCOUNT": "22.32",
+            "YIELD": "23.32",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "OMO 10-Dec-24",
+            "DISCOUNT": "22.39",
+            "YIELD": "24.04",
+            "CHANGE": "-0.01",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "OMO 7-Jan-25",
+            "DISCOUNT": "22.43",
+            "YIELD": "24.54",
+            "CHANGE": "-0.01",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "OMO 25-Feb-25",
+            "DISCOUNT": "22.5",
+            "YIELD": "25.47",
+            "CHANGE": "-0.01",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "OMO 1-Apr-25",
+            "DISCOUNT": "22.55",
+            "YIELD": "26.17",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "OMO 6-May-25",
+            "DISCOUNT": "22.6",
+            "YIELD": "26.92",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "OMO 10-Jun-25",
+            "DISCOUNT": "22.7",
+            "YIELD": "27.78",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        }
+    ],
+    "table_9": [
+        {
+            "MATURITY": "DANC CP XII 27-AUG-24",
+            "DISCOUNT": "21.88",
+            "YIELD": "21.98",
+            "CHANGE": "-0.03",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "CMBL CP III 24-SEP-24",
+            "DISCOUNT": "24.73",
+            "YIELD": "25.33",
+            "CHANGE": "-0.03",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "AFRI CP II 21-OCT-24",
+            "DISCOUNT": "24.60",
+            "YIELD": "25.67",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "FBNQ CP XXVII 25-OCT-24",
+            "DISCOUNT": "20.49",
+            "YIELD": "21.28",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "UACN CP VIII 3-DEC-24",
+            "DISCOUNT": "24.33",
+            "YIELD": "26.16",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "CTIL CP XIV 20-DEC-24",
+            "DISCOUNT": "25.21",
+            "YIELD": "27.52",
+            "CHANGE": "-0.02",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "CPST CP X 14-FEB-25",
+            "DISCOUNT": "26.09",
+            "YIELD": "29.89",
+            "CHANGE": "-0.01",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "MATURITY": "NSDL CP IVA 16-MAR-25",
+            "DISCOUNT": "28.89",
+            "YIELD": "34.56",
+            "CHANGE": "0.04",
+            "DATE": "August 20, 2024"
+        }
+    ],
+    "table_12": [
+        {
+            "CONTRACT_CODE": "19 SEP24 BF02",
+            "MATURITY_DATE": "September 19, 2024",
+            "SETTLEMENT_PRICE": "91.66",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "CONTRACT_CODE": "19 DEC24 BF02",
+            "MATURITY_DATE": "December 19, 2024",
+            "SETTLEMENT_PRICE": "94.19",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "CONTRACT_CODE": "19 JUN25 BF02",
+            "MATURITY_DATE": "June 19, 2025",
+            "SETTLEMENT_PRICE": "108.32",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "CONTRACT_CODE": "19 SEP24 BF10",
+            "MATURITY_DATE": "September 19, 2024",
+            "SETTLEMENT_PRICE": "71.41",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "CONTRACT_CODE": "19 DEC24 BF10",
+            "MATURITY_DATE": "December 19, 2024",
+            "SETTLEMENT_PRICE": "73.62",
+            "DATE": "August 20, 2024"
+        },
+        {
+            "CONTRACT_CODE": "19 JUN25 BF10",
+            "MATURITY_DATE": "June 19, 2025",
+            "SETTLEMENT_PRICE": "97.15",
+            "DATE": "August 20, 2024"
+        }
+    ]
+}
